@@ -76,9 +76,9 @@ export default {
         {
           title: "New<br />portfolio1",
           desc: "재능은! 노력 끝에서 발견된다.<br />어떤 일이라도 노력하고 즐기면 그 결과는 빛을 바란다고 생각합니다.",
-          iconImage: "./images/slider/sliderIcon1.png",
-          iconImage2: "./images/slider/sliderIcon2.png",
-          iconImage3: "./images/slider/sliderIcon3.png",
+          iconImage: "./images/slider/sliderIcon5.png",
+          iconImage2: "./images/slider/sliderIcon6.png",
+          iconImage3: "./images/slider/sliderIcon7.png",
         },
         {
           title: "New<br />portfolio2",
@@ -129,7 +129,7 @@ export default {
       }
       .img {
         position: absolute;
-        right: 0;
+        right: -100px;
         top: -120px;
         width: 600px;
         height: 600px;
