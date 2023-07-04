@@ -1,3 +1,3 @@
 <template>
-  <div>slider</div>
+  <div></div>
 </template>

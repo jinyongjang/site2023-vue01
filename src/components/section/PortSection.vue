@@ -55,19 +55,19 @@ export default {
         {
           img: "./images/port/portImg01.svg",
           title: "국화",
-          desc: "우아하고 아름다운 꽃으로,<br />전통적인 아시아 문화에서 미를 상징",
+          desc: "우아하고 아름다운 꽃으로,전통적인 아시아 문화에서 미를 상징",
           icon: "./images/port/memberIcon01.png",
         },
         {
           img: "./images/port/portImg02.svg",
           title: "데이지",
-          desc: "신선하고 밝은 느낌을 주는 꽃으로,<br />순수함과 희망을 상징",
+          desc: "신선하고 밝은 느낌을 주는 꽃으로,순수함과 희망을 상징",
           icon: "./images/port/memberIcon01.png",
         },
         {
           img: "./images/port/portImg03.svg",
           title: "장미",
-          desc: "사랑과 열정을 상징하는 아름다운 꽃으로,<br />그 향기와 우아함으로 인기있는 꽃",
+          desc: "사랑과 열정을 상징하는 아름다운 꽃으로,그 향기와 우아함으로 인기있는 꽃",
           icon: "./images/port/memberIcon01.png",
         },
         {
@@ -79,13 +79,13 @@ export default {
         {
           img: "./images/port/portImg05.svg",
           title: "아이리스",
-          desc: "꽃잎과 섬세한 모양으로 유명한 꽃으로,<br />우아함과 지혜를 상징하는 꽃",
+          desc: "꽃잎과 섬세한 모양으로 유명한 꽃으로,우아함과 지혜를 상징하는 꽃",
           icon: "./images/port/memberIcon01.png",
         },
         {
           img: "./images/port/portImg06.svg",
           title: "벚꽃",
-          desc: "아름다운 분홍빛 꽃을 피우며,잠시동안만 <br />지속되는 아름다운 순간을 상징하는 꽃",
+          desc: "아름다운 분홍빛 꽃을 피우며,잠시동안만 지속되는 아름다운 순간을 상징하는 꽃",
           icon: "./images/port/memberIcon01.png",
         },
       ],
@@ -97,6 +97,7 @@ export default {
 <style lang="scss">
 //port__wrap
 .port__wrap {
+  font-family: "Ansungtangmyun";
 }
 .port__inner {
   .port__btn {
@@ -132,7 +133,7 @@ export default {
         align-items: center;
         margin: 30px 30px 30px 0;
       }
-      .port__body .pic {
+      .pic {
         margin-right: 20px;
       }
 

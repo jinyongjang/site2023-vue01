@@ -1,3 +1,3 @@
 <template>
-  <div>unsplashTag</div>
+  <div></div>
 </template>

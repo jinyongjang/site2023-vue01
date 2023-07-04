@@ -55,6 +55,7 @@ export default {
 // intro__wrap
 
 .intro__inner {
+  font-family: "NexonLv1Gothic";
   display: flex;
   justify-content: space-between;
 }

@@ -1,3 +1,3 @@
 <template>
-  <div>서치</div>
+  <div></div>
 </template>

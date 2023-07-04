@@ -75,21 +75,21 @@ export default {
       sliders: [
         {
           title: "New<br />portfolio1",
-          desc: "재능은! 노력 끝에서 발견된다.<br />어떤 일이라도 노력하고 즐기면 그 결과는 빛을 바란다고 생각합니다.",
+          desc: "지금이라는 순간을 즐기고<br /> 어제의 후회 대신 내일의 꿈을 키워라.",
           iconImage: "./images/slider/sliderIcon5.png",
           iconImage2: "./images/slider/sliderIcon6.png",
           iconImage3: "./images/slider/sliderIcon7.png",
         },
         {
           title: "New<br />portfolio2",
-          desc: "재능은! 노력 끝에서 발견된다.<br />어떤 일이라도 노력하고 즐기면 그 결과는 빛을 바란다고 생각합니다.",
+          desc: "한 걸음이라도 나아가는 것은<br /> 멈춰있는 것보다 나은 선택이다.",
           iconImage: "./images/slider/sliderIcon1.png",
           iconImage2: "./images/slider/sliderIcon2.png",
           iconImage3: "./images/slider/sliderIcon3.png",
         },
         {
           title: "New<br />portfolio3",
-          desc: "재능은! 노력 끝에서 발견된다.<br />어떤 일이라도 노력하고 즐기면 그 결과는 빛을 바란다고 생각합니다.",
+          desc: "행복은 자신을 받아들이고<br /> 자신을 사랑하는 것에서 비롯된다.",
           iconImage: "./images/slider/sliderIcon1.png",
           iconImage2: "./images/slider/sliderIcon2.png",
           iconImage3: "./images/slider/sliderIcon3.png",
@@ -107,6 +107,7 @@ export default {
   bottom: -80px !important;
 }
 .slider__inner {
+  font-family: "Ansungtangmyun";
   position: relative;
   .slider__img {
     .slider {

@@ -9,7 +9,7 @@
       navigation
       :pagination="{ clickable: true }"
       :autoplay="{
-        delay: 5000,
+        delay: 1000,
         disableOnInteraction: false,
       }"
       :loop="true"
